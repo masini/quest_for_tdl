@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-vspeed = 5
+vspeed = current_speed
 
 sprite_index = spr_hansip_front
 
