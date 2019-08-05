@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "b4512995-b8a6-4122-8f54-61bd00a472c3",
+            "Value": {
+                "id": "e0e7d561-0e4f-4ad8-837e-44f3db4667d8",
+                "resourcePath": "sprites\/spr_la_ditta\/spr_la_ditta.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c2eb6099-e3a0-4760-af59-f8bd36e4d2dc",
             "Value": {
                 "id": "e9b5efcb-bc9e-44af-8f50-dc98be0fbfbc",
