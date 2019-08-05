@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "4d56fa9c-8c3c-48fd-ae30-2d3bb1b7f807",
+            "Value": {
+                "id": "e8ebc1e3-dff7-46e7-b1ef-381df7f249af",
+                "resourcePath": "objects\/obj_la_ditta\/obj_la_ditta.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "598376f3-d96e-460a-9718-8b6e23362afb",
             "Value": {
                 "id": "464a2d52-2088-4361-a9b2-b42082ccdefe",
@@ -116,6 +124,14 @@
                 "id": "072ede65-744b-476a-a265-ac5337c58672",
                 "resourcePath": "sprites\/spr_hansip_back\/spr_hansip_back.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5d77ec79-1fbd-42f6-9c32-608c4845ce00",
+            "Value": {
+                "id": "66b9578e-c6ab-491a-b517-63dfbca0ca3f",
+                "resourcePath": "objects\/obj_game\/obj_game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
